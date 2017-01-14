@@ -1,4 +1,4 @@
-<a href="http://www.hackerrank.com/"><img src="http://st.codeforces.com/s/44761/images/codeforces-logo-with-telegram.png" align="left" height="50" width="200" ></a>
+<a href="http://www.hackerrank.com/"><img src="https://hrcdn.net/hackerrank/assets/brand/wordmark_sm-18235847eda14ef53e4035505831eeb7.png"></a>
 
 The following programs are my submissions for competitive programming problems at http://www.hackerrank.com. 
 
