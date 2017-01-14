@@ -1,4 +1,4 @@
-<a href="http://www.hackerrank.com/"><img src="https://hrcdn.net/hackerrank/assets/brand/wordmark_sm-18235847eda14ef53e4035505831eeb7.png"></a> 
+<a href="http://www.hackerrank.com/"><img src="https://hrcdn.net/hackerrank/assets/brand/wordmark_sm-18235847eda14ef53e4035505831eeb7.png" align="left" height="55" width="250"></a> 
 
 The following programs are my submissions for competitive programming problems at http://www.hackerrank.com. 
 
