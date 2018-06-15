@@ -2,7 +2,7 @@
 
 The following programs are my submissions for competitive programming problems at http://www.hackerrank.com. 
 
-The repository is mostly for private storage purposes but please feel free to use these solutions as references/hints for your own solutions. All solutions are written in C++ and have successfully passed all sub-tasks for their respective problems. <i>The repository is updated throughout the year for new problems.</i>
+The repository is mostly for private storage purposes but please feel free to use these solutions as references/hints for your own solutions. All solutions are written in C++ and have successfully passed all sub-tasks for their respective problems.
 
 ---
 
