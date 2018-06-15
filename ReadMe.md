@@ -8,7 +8,7 @@ The repository is mostly for private storage purposes but please feel free to us
 
 # Contact Me
 
-**Email:** anujsinghsaharan@gmail.com
+**Email:** anuj@gatech.edu
 
 **Facebook:** https://www.facebook.com/theAnujSaharan
 
