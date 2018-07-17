@@ -2,7 +2,7 @@
 
 The following programs are my submissions for competitive programming problems at http://www.hackerrank.com. 
 
-The repository is mostly for private storage purposes but please feel free to use these solutions as references/hints for your own solutions. All solutions are written in C++ and have successfully passed all sub-tasks for their respective problems.
+The repository is mostly for private storage purposes but please feel free to use these solutions as references for your own solutions. All solutions are written in C++ and have successfully passed all sub-tasks for their respective problems.
 
 ---
 
@@ -10,10 +10,8 @@ The repository is mostly for private storage purposes but please feel free to us
 
 **Email:** anuj@gatech.edu
 
-**Facebook:** https://www.facebook.com/theAnujSaharan
-
-**Twitter:** https://www.twitter.com/theAnujSaharan
-
 **LinkedIn:** https://in.linkedin.com/in/AnujSaharan
+
+**Facebook:** https://www.facebook.com/theAnujSaharan
 
 ---
