@@ -10,7 +10,7 @@ The repository is mostly for private storage purposes but please feel free to us
 
 **Email:** anuj@gatech.edu
 
-**LinkedIn:** https://in.linkedin.com/in/AnujSaharan
+**LinkedIn:** https://www.linkedin.com/in/AnujSaharan
 
 **Facebook:** https://www.facebook.com/theAnujSaharan
 
